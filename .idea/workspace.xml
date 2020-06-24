@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="change inventory children" />
+    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="change inventory children">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,11 +173,11 @@
       <screen x="3360" y="-161" width="1680" height="1010" />
     </state>
     <state x="3701" y="-12" key="SettingsEditor/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1591346226353" />
-    <state x="552" y="285" key="Vcs.Push.Dialog.v2" timestamp="1593001695424">
+    <state x="552" y="285" key="Vcs.Push.Dialog.v2" timestamp="1593002076652">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="2403" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587826633871" />
     <state x="3843" y="89" key="Vcs.Push.Dialog.v2/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1591360710071" />
-    <state x="552" y="285" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1593001695424" />
+    <state x="552" y="285" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1593002076652" />
   </component>
 </project>
